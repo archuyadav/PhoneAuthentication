@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "614738613981",
+    "project_id": "talkingking-528e9",
+    "storage_bucket": "talkingking-528e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614738613981:android:36a617b30fd098f5b22d34",
+        "android_client_info": {
+          "package_name": "com.example.talkingking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614738613981-maiu0pmijulbj0u2bvtudu62n9n7vui9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ6Bd_l0h6WSeuDVvk-KpG2iV-8m3i-_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614738613981-maiu0pmijulbj0u2bvtudu62n9n7vui9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

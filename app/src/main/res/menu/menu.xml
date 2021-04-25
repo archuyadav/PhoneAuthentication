@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_baseline_chat_24"
+        android:iconTint="@color/brown"
+        android:title="Chats" />
+
+    <item android:title="Status"
+        android:iconTint="@color/brown"
+        android:icon="@drawable/ic_baseline_collections_24"/>
+
+    <item android:title="Calls"
+        android:iconTint="@color/brown"
+        android:icon="@drawable/ic_baseline_add_ic_call_24"/>
+</menu>
